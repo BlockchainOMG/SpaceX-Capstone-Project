@@ -95,8 +95,8 @@ git add .
 # Commit
 git commit -m "Complete SpaceX Falcon 9 landing prediction capstone project"
 
-# Create repository on GitHub, then:
-git remote add origin https://github.com/YOUR_USERNAME/spacex-falcon9-prediction.git
+# If pushing to your existing repository:
+git remote add origin https://github.com/BlockchainOMG/SpaceX-Capstone-Project.git
 git branch -M main
 git push -u origin main
 ```

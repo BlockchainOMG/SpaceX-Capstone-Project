@@ -210,8 +210,8 @@ SpaceX_Capstone_Project/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/spacex-falcon9-prediction.git
-cd spacex-falcon9-prediction
+git clone https://github.com/BlockchainOMG/SpaceX-Capstone-Project.git
+cd SpaceX-Capstone-Project
 ```
 
 ### Step 2: Create Virtual Environment (Optional but Recommended)
@@ -432,11 +432,11 @@ Actual  Fail    6      1
 
 ## 👤 Contributors
 
-**[Your Name]**
+**Tolga Acan**
 - Role: Data Scientist / ML Engineer
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@BlockchainOMG](https://github.com/BlockchainOMG)
+- Repository: [SpaceX-Capstone-Project](https://github.com/BlockchainOMG/SpaceX-Capstone-Project)
+- Email: tolga.acan@proton.me
 
 ### Acknowledgments
 - SpaceX for providing open API access
@@ -456,19 +456,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Questions or Feedback?
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub Issues: [Report Issues](https://github.com/yourusername/spacex-falcon9-prediction/issues)
+- 📧 Email: tolga.acan@proton.me
+- 🐙 GitHub: [@BlockchainOMG](https://github.com/BlockchainOMG)
+- 🐙 GitHub Issues: [Report Issues](https://github.com/BlockchainOMG/SpaceX-Capstone-Project/issues)
 
 ### How to Cite This Project
 
 ```bibtex
 @misc{spacex_landing_prediction,
-  author = {Your Name},
+  author = {Tolga Acan},
   title = {SpaceX Falcon 9 First Stage Landing Prediction},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/spacex-falcon9-prediction}
+  url = {https://github.com/BlockchainOMG/SpaceX-Capstone-Project}
 }
 ```
 

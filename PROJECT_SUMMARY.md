@@ -328,6 +328,11 @@ python3 run_all_analyses.py
 
 ## 📞 Support & Contact
 
+**Tolga Acan**
+- 📧 Email: tolga.acan@proton.me
+- 🐙 GitHub: [@BlockchainOMG](https://github.com/BlockchainOMG)
+- 📁 Repository: [SpaceX-Capstone-Project](https://github.com/BlockchainOMG/SpaceX-Capstone-Project)
+
 If you need help or have questions:
 
 1. **README.md** - Comprehensive documentation
